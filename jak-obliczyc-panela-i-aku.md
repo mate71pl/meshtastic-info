@@ -72,5 +72,5 @@ Oto inne kwestie, które należy wspomnieć:
 - Podczas umieszczania panelu słonecznego w regionie, gdzie zimą pada śnieg, należy rozważyć, czy śnieg będzie się gromadził na panelu słonecznym. Jeśli tak, należy wziąć pod uwagę, jaką wagę panel i uchwyty są w stanie wytrzymać.
 
 Tekst przetłumaczony na podstawie:
-https://docs.google.com/document/d/12GIY24vLKLABg2RUTPP6yMzokr44GMzJOE4p7ngaCbI/
-https://docs.google.com/document/d/16RFqDHl81j4O_MkLKLY5SYW4Bs-8IkOc2pT8pSA8Xu4/
+- https://docs.google.com/document/d/12GIY24vLKLABg2RUTPP6yMzokr44GMzJOE4p7ngaCbI/
+- https://docs.google.com/document/d/16RFqDHl81j4O_MkLKLY5SYW4Bs-8IkOc2pT8pSA8Xu4/
